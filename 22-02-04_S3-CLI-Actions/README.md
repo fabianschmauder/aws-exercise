@@ -1,6 +1,7 @@
 # Exercise 03.04.22 
 
 Exercise to learn the Basisc about AWS S3, CLI and Github actions
+[result](https://github.com/fabianschmauder/aws-friday-result-2022-02-04)
 
 ### 1. Upload static Website via Console
 1. Start your Sandbox
