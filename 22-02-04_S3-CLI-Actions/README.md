@@ -1,4 +1,4 @@
-# Exercise 03.04.22 
+# Exercise 04.02.22 
 
 Exercise to learn the Basisc about AWS S3, CLI and Github actions
 [result](https://github.com/fabianschmauder/aws-friday-result-2022-02-04)
