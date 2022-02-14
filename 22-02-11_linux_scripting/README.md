@@ -10,17 +10,17 @@ We will write a script that outputs a json with running processes
 ```
 [
     {
-        "pid":234
+        "pid":234,
         "cpu": 30,
         "user": "fabianschmauder"
     },
     {
-        "pid":134
+        "pid":134,
         "cpu": 20,
         "user": "fabianschmauder"
     },
     {
-        "pid":33
+        "pid":33,
         "cpu": 10,
         "user": "fabianschmauder"
     }
